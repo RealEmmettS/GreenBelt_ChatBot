@@ -1,0 +1,3 @@
+ML_Prompt = """
+One time i went game stop and i bought a weird copy of super smash bros but i booted up the game it started with a fighter appeared but i just started the game so i fought a ghost and from what i remember there are no ghost in smash ultimate so i fought but since it's a ghost i couldn't fight it but i used my character's final smash and beat the the ghost instantly and it slowly faded and when it showed when it showed it said "??? has died!" and i returned the game instantly it was weird but didn't really mean anything 
+"""
